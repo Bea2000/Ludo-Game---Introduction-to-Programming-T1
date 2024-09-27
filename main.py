@@ -49,7 +49,7 @@ while((posicion_ficha_11<meta or posicion_ficha_12<meta)  and ganador==False):
                         posicion_ficha_11=posicion_ficha_11+Dado
                         if(posicion_ficha_11>=meta):
                             posicion_ficha_11=meta-(posicion_ficha_11-meta)
-                        contenido_final += "La ficha 1, quedo en la posicion", posicion_ficha_11,"\n"
+                        contenido_final += f"La ficha 1, quedo en la posicion {posicion_ficha_11}" + "\n"
                         if(posicion_ficha_11>=zona_de_victoria and zonav11==False):
                             contenido_final += "La ficha 1, llego a la zona de victoria" + "\n"
                             zonav11=True
@@ -68,7 +68,7 @@ while((posicion_ficha_11<meta or posicion_ficha_12<meta)  and ganador==False):
                         Respuesta= datos[linea]
                         linea = linea + 1
                     else:
-                        contenido_final += "Ficha", Dado_para_avanzar, "no es valida" + "\n"
+                        contenido_final += f"Ficha {Dado_para_avanzar} no es valida" + "\n"
                         Respuesta= datos[linea]
                         linea = linea + 1
             while(Respuesta=="Avanzar" and fichas_liberadas_1==2 and (posicion_ficha_11<meta or posicion_ficha_12<meta) and ganador==False and (Dado==6 or Dado==1)):
@@ -78,7 +78,7 @@ while((posicion_ficha_11<meta or posicion_ficha_12<meta)  and ganador==False):
                     posicion_ficha_11=posicion_ficha_11+Dado
                     if(posicion_ficha_11>=meta):
                         posicion_ficha_11=meta-(posicion_ficha_11-meta)
-                    contenido_final += "La ficha 1, quedo en la posicion", posicion_ficha_11 + "\n"
+                    contenido_final += f"La ficha 1, quedo en la posicion {posicion_ficha_11}" + "\n"
                     if(posicion_ficha_11>=zona_de_victoria and zonav11==False):
                         contenido_final += "La ficha 1, llego a la zona de victoria" + "\n"
                         zonav11=True
@@ -164,7 +164,7 @@ while((posicion_ficha_11<meta or posicion_ficha_12<meta)  and ganador==False):
                     contenido_final += "Ficha 2 no es valida" + "\n"
                     Turno=True
                 else:
-                    contenido_final += "Ficha" ,Dado_para_avanzar, "no es valida" + "\n"
+                    contenido_final += f"Ficha {Dado_para_avanzar} no es valida" + "\n"
                     Turno=True
                 if(posicion_ficha_11==meta):
                     Turno=False
@@ -220,7 +220,7 @@ while((posicion_ficha_11<meta or posicion_ficha_12<meta)  and ganador==False):
                             posicion_ficha_21=posicion_ficha_21+Dado
                             if(posicion_ficha_21>=meta):
                                 posicion_ficha_21=meta-(posicion_ficha_21-meta)
-                            contenido_final += "La ficha 1, quedo en la posicion", posicion_ficha_21 + "\n"
+                            contenido_final += f"La ficha 1, quedo en la posicion {posicion_ficha_21}" + "\n"
                             if(posicion_ficha_21>=zona_de_victoria and zonav21==False):
                                 contenido_final += "La ficha 1, llego a la zona de victoria" + "\n"
                                 zonav21=True
@@ -239,7 +239,7 @@ while((posicion_ficha_11<meta or posicion_ficha_12<meta)  and ganador==False):
                             Respuesta= str(datos[linea])
                             linea = linea + 1
                         else:
-                            contenido_final += "Ficha", Dado_para_avanzar, "no es valida" + "\n"
+                            contenido_final += f"Ficha {Dado_para_avanzar} no es valida" + "\n"
                             Respuesta= str(datos[linea])
                             linea = linea + 1
                 while(Respuesta=="Avanzar" and fichas_liberadas_2==2 and (Dado==6 or Dado==1) and (posicion_ficha_21<meta or posicion_ficha_22<meta and ganador==False)):
@@ -336,7 +336,7 @@ while((posicion_ficha_11<meta or posicion_ficha_12<meta)  and ganador==False):
                             contenido_final += "Ficha 2 no es valida" + "\n"
                             Turno=True
                         else:
-                            contenido_final += "Ficha", Dado_para_avanzar, "no es valida" + "\n"
+                            contenido_final += f"Ficha {Dado_para_avanzar} no es valida" + "\n"
                             Turno=True
             while(Respuesta=="Avanzar" and fichas_liberadas_2==2 and Turno==True and ganador==False and (posicion_ficha_21<meta or posicion_ficha_22<meta)):
                 Dado_para_avanzar=int(datos[linea])
