@@ -1,0 +1,143 @@
+Ha iniciado el turno de J1
+Dado: 4 
+Ha iniciado el turno de J2
+Dado: 1 
+No hay fichas que avanzar
+No hay fichas que avanzar
+El Jugador ha liberado una ficha
+Dado: 5 
+Ficha 2 no es valida
+Ficha 2 no es valida
+La ficha 1, quedo en la posicion 5
+Ha iniciado el turno de J1
+Dado: 2 
+Ha iniciado el turno de J2
+Dado: 3 
+La ficha 1, quedo en la posicion 8
+Ha iniciado el turno de J1
+Dado: 5 
+Ha iniciado el turno de J2
+Dado: 3 
+La ficha 1, quedo en la posicion 11
+La ficha 1, llego a la zona de victoria
+Ha iniciado el turno de J1
+Dado: 5 
+Ha iniciado el turno de J2
+Dado: 1 
+El Jugador ha liberado una ficha
+Dado: 6 
+No quedan fichas por liberar
+La ficha 2, quedo en la posicion 6
+Dado: 4 
+La ficha 1, quedo en la posicion 15
+Ha iniciado el turno de J1
+Dado: 6 
+No hay fichas que avanzar
+El Jugador ha liberado una ficha
+Dado: 4 
+Ficha 2 no es valida
+Ficha 2 no es valida
+La ficha 1, quedo en la posicion 4
+Ha iniciado el turno de J2
+Dado: 6 
+La ficha 1, quedo en la posicion 11
+Dado: 4 
+La ficha 1, quedo en la posicion 15
+Ha iniciado el turno de J1
+Dado: 5 
+Ficha 2 no es valida
+La ficha 1, quedo en la posicion 9
+Ha iniciado el turno de J2
+Dado: 5 
+La ficha 2, quedo en la posicion 11
+La ficha 2, llego a la zona de victoria
+Ha iniciado el turno de J1
+Dado: 3 
+Ficha 2 no es valida
+Ficha 2 no es valida
+Ficha 2 no es valida
+La ficha 1, quedo en la posicion 12
+La ficha 1, llego a la zona de victoria
+Ha iniciado el turno de J2
+Dado: 5 
+La ficha 1, quedo en la posicion 12
+Ha iniciado el turno de J1
+Dado: 2 
+La ficha 1, quedo en la posicion 14
+Ha iniciado el turno de J2
+Dado: 3 
+La ficha 2, quedo en la posicion 14
+Ha iniciado el turno de J1
+Dado: 1 
+El Jugador ha liberado una ficha
+Dado: 4 
+La ficha 2, quedo en la posicion 4
+Ha iniciado el turno de J2
+Dado: 2 
+La ficha 2, quedo en la posicion 16
+La ficha 2, llego al casillero final
+Ha iniciado el turno de J1
+Dado: 6 
+No quedan fichas por liberar
+No quedan fichas por liberar
+La ficha 2, quedo en la posicion 10
+Dado: 2 
+La ficha 1, quedo en la posicion 16
+La ficha 1, llego al casillero final
+Ha iniciado el turno de J2
+Dado: 3 
+Ficha 2 no es valida
+La ficha 1, quedo en la posicion 15
+Ha iniciado el turno de J1
+Dado: 1 
+La ficha 2, quedo en la posicion 11
+La ficha 2, llego a la zona de victoria
+Dado: 2 
+Ficha 1 no es valida
+La ficha 2, quedo en la posicion 13
+Ha iniciado el turno de J2
+Dado: 6 
+Ficha 2 no es valida
+No quedan fichas por liberar
+No quedan fichas por liberar
+La ficha 1, quedo en la posicion 11
+Dado: 6 
+No quedan fichas por liberar
+La ficha 1, quedo en la posicion 15
+Dado: 2 
+La ficha 1, quedo en la posicion 15
+Ha iniciado el turno de J1
+Dado: 5 
+Ficha 1 no es valida
+La ficha 2, quedo en la posicion 14
+Ha iniciado el turno de J2
+Dado: 6 
+La ficha 1, quedo en la posicion 11
+Dado: 6 
+Ficha 2 no es valida
+Ficha 2 no es valida
+La ficha 1, quedo en la posicion 15
+Dado: 4 
+La ficha 1, quedo en la posicion 13
+Ha iniciado el turno de J1
+Dado: 1 
+La ficha 2, quedo en la posicion 15
+Dado: 6 
+Ficha 1 no es valida
+No quedan fichas por liberar
+Ficha 1 no es valida
+No quedan fichas por liberar
+No quedan fichas por liberar
+Ficha 1 no es valida
+Ficha 1 no es valida
+No quedan fichas por liberar
+No quedan fichas por liberar
+La ficha 2, quedo en la posicion 11
+Dado: 5 
+La ficha 2, quedo en la posicion 16
+La ficha 2, llego al casillero final
+Resumen Ludo
+Ganador: J1
+Cantidad fichas liberadas J2: 2
+Posicion ficha 1: 13
+Posicion ficha 2: 16
